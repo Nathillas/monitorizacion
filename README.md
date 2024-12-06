@@ -8,7 +8,7 @@
 
 
 ## [2.🛠️Herramientas propias del sistema](herramientas.md)
-*_Aquí detalla las herramientas específicas del sistema que se usan para la monitorización, como herramientas nativas de Windows, Linux, etc._*
+*_Aquí detalla las herramientas específicas del sistema que se usan para la monitorización, como herramientas nativas de Linux._*
 ## [3.🌐 Sistemas de monitorización](sistemas.md)
 *_Describe sistemas populares como Nagios, Zabbix, Prometheus, Datadog, etc._*
 ## [4.🗺️ Mapa conceptual](mapa.md)

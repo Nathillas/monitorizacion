@@ -9,10 +9,10 @@ La monitorización es el proceso continuo de recopilación, análisis y visualiz
 
 Objetivos de la Monitorización:
 
-✅Asegurar la disponibilidad y el rendimiento de los sistemas.
-⚠️Identificar problemas antes de que impacten a los usuarios.
-💡Optimizar recursos y costos.
-🔒Mejorar la seguridad y la detección de anomalías.
+- ✅Asegurar la disponibilidad y el rendimiento de los sistemas.
+- ⚠️Identificar problemas antes de que impacten a los usuarios.
+- 💡Optimizar recursos y costos.
+- 🔒Mejorar la seguridad y la detección de anomalías.
 
 
 ## [2.🛠️Herramientas propias del sistema](herramientas.md)

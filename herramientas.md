@@ -178,4 +178,3 @@ El comando `blkid` muestra información sobre los dispositivos de bloque, como U
 
 ---
 
-Si necesitas agregar algo más, ¡dímelo!

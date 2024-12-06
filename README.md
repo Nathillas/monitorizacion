@@ -1,5 +1,6 @@
 # 🖥️Monitorizacion
 
+    
 <img src="/img/introduccion.webp" alt="introduccion_portada" width="500">
 
 ## 1.📋Introducción

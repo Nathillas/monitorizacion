@@ -3,7 +3,7 @@
 Los sistemas operativos y plataformas modernas incluyen herramientas integradas para la monitorización básica. Estas herramientas ofrecen métricas esenciales como uso de CPU, memoria, disco y red.
 
 
-## **1. Comandos para Procesos**
+## **1.Procesos**
 
 ### **`ps`**
 El comando `ps` permite mostrar información sobre los procesos en ejecución.
@@ -67,7 +67,7 @@ Permite identificar y detener procesos.
 
 ---
 
-## **2. Comandos para Monitorización de Red**
+## **2.Monitorización de Red**
 
 ### **`tcpdump`**
 Herramienta para capturar y analizar paquetes de red.
@@ -114,7 +114,7 @@ Permite calcular el tamaño de un archivo.
 
 ---
 
-## **3. Comandos de Gestión de Sistemas de Archivos y Recursos**
+## **3.Gestión de Sistemas de Archivos y Recursos**
 
 ### **`df`**
 El comando `df` muestra información sobre el espacio disponible y utilizado en los sistemas de archivos montados.

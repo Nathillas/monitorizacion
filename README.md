@@ -20,4 +20,21 @@ Objetivos de la Monitorización:
 ## [3.🌐 Sistemas de monitorización](sistemas.md)
 *_Describe sistemas populares como Nagios, Zabbix, Prometheus, Datadog, etc._*
 ## [4.🗺️ Mapa conceptual](mapa.md)
+
 ## 5.📚Referencias
+
+
+- <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="Grafana Logo" width="20"> **[Grafana](https://grafana.com/)**  
+
+- <img src="https://www.debian.org/logos/openlogo-nd-100.png" alt="Debian Logo" width="20"> **[Debian](https://www.debian.org/)**  
+
+---
+
+### **📜 Licencia**
+
+<a href="https://creativecommons.org/licenses/by/4.0/">
+  <img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Licencia Creative Commons" width="100">
+</a>
+
+---
+

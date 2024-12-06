@@ -1,4 +1,5 @@
 # Monitorizacion
+<img src="/img/introduccion.webp" alt="introduccion_portada" width="500">
 
 ## 1.Introducción
 La monitorización es el proceso continuo de recopilación, análisis y visualización de datos relacionados con el rendimiento, la seguridad y el estado de sistemas, redes, aplicaciones y hardware. Su objetivo es garantizar el funcionamiento óptimo, detectar problemas de manera proactiva y facilitar la toma de decisiones informadas.

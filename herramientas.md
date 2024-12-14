@@ -13,7 +13,7 @@ Los sistemas operativos y plataformas modernas incluyen herramientas integradas 
 
   
 
-### **1.Procesos**
+## **1.Procesos**
 
 ### **`ps`**
 El comando `ps` permite mostrar información sobre los procesos en ejecución.
@@ -101,7 +101,7 @@ Uso: Analizar el rendimiento histórico del sistema.
 
 ---
 
-### **Finalizar un Proceso**
+## **Finalizar un Proceso**
 Permite identificar y detener procesos.
 
 - Identificar procesos: Utilizar `ps au` para listar los procesos con sus respectivos PID.  

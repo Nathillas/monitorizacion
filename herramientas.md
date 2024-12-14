@@ -5,9 +5,9 @@ Los sistemas operativos y plataformas modernas incluyen herramientas integradas 
 
 ## Indice
 
-[1. PROCESOS](https://github.com/Nathillas/monitorizacion/edit/main/herramientas.md#1procesos)
-[2. RED](https://github.com/Nathillas/monitorizacion/edit/main/herramientas.md#2monitorizaci%C3%B3n-de-red)
-[3. ARCHIVOS Y RECURSOS](https://github.com/Nathillas/monitorizacion/edit/main/herramientas.md#3gesti%C3%B3n-de-sistemas-de-archivos-y-recursos)
+[1. Procesos](https://github.com/Nathillas/monitorizacion/edit/main/herramientas.md#1procesos)
+[2. Red](https://github.com/Nathillas/monitorizacion/edit/main/herramientas.md#2monitorizaci%C3%B3n-de-red)
+[3. Archivos y Recursos](https://github.com/Nathillas/monitorizacion/edit/main/herramientas.md#3gesti%C3%B3n-de-sistemas-de-archivos-y-recursos)
 
 
 ### **1.Procesos**

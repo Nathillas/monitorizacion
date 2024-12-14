@@ -171,7 +171,7 @@ bmon
 ~~~
  
   Uso: Inicia el monitor interactivo de ancho de banda.
-![imagen](/img/imagen26.png)
+![imagen](/img/imagen28.png)
 
 ---
 

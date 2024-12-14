@@ -160,7 +160,7 @@ iptraf
 ~~~
 
   Uso: Inicia la interfaz interactiva para monitorear estadísticas de tráfico.
-![imagen](/img/imagen27.png)
+![imagen](/img/imagen26.png)
 
 ---
 

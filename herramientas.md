@@ -20,20 +20,32 @@ El comando `ps` permite mostrar información sobre los procesos en ejecución.
 
 - `ps a`: Muestra todos los procesos asociados a un terminal.  
   Uso: Identificar los procesos que están ejecutándose en sesiones de terminal activas.
+
 ![imagen](/img/imagen1.png)
 
 - `ps au`: Proporciona información detallada sobre los procesos.  
   Uso: Obtener detalles adicionales, como el usuario, consumo de CPU y memoria.
+
 ![imagen](/img/imagen2.png)
 
 - `ps aux`: Lista todos los procesos en ejecución en el sistema.  
   Uso: Mostrar información de todos los procesos, incluso aquellos no vinculados a un terminal.
+
 ![imagen](/img/imagen3.png)
 
 
 - `ps -C [proceso]`: Busca información de un proceso específico por su nombre.  
   Uso: Identificar un proceso concreto.
+
 ![imagen](/img/imagen4.png)
+
+Para ver 5 los procesos que ocupen más memoria:
+~~~
+ ps -eo user,pid,%cpu,%mem,time --sort=-%cpu | head -n 6
+~~~
+
+![imagen](/img/imagen4.png)
+
 
 ---
 
@@ -44,7 +56,11 @@ Muestra los procesos del sistema ordenados por consumo de CPU en tiempo real.
   Uso: Identificar los procesos que más recursos están consumiendo.
 
 - Crear registro: Guarda la salida de `top` en un archivo de texto.  
-  Ejemplo: `top > top.txt`.  
+
+  ~~~
+  top > top.txt
+  ~~~  
+
   Uso: Generar un registro para su análisis posterior.
 
 ---

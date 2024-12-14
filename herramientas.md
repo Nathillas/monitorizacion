@@ -44,7 +44,7 @@ Para ver 5 los procesos que ocupen más memoria:
  ps -eo user,pid,%cpu,%mem,time --sort=-%cpu | head -n 6
 ~~~
 
-![imagen](/img/imagen4.png)
+![imagen](/img/imagen5.png)
 
 
 ---
